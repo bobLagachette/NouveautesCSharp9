@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Demo22\Demo22.csproj" />
+    <ProjectReference Include="..\Demo3\Demo3.csproj" />
+  </ItemGroup>
+
+</Project>
